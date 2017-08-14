@@ -15,6 +15,8 @@
 
 # Custom Packages
 PRODUCT_PACKAGES += \
-    Wakeblock
+    Wakeblock \
+    OnePlusCamera \
+    OnePlusGallery
 
 
